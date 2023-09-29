@@ -8,6 +8,7 @@ This is a course project designed by Stephen Grider on Udemy. The application is
 * Node JS
 * Google OAuth
 * Stripe API
+* SendGrid API
 
 # Prerequisites
 
